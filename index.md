@@ -14,4 +14,4 @@ Nothing to show yet...
 
 ### More Projects
 
-You can find more projects at [pipads main site](http://pipadse.wixsite.com/pipadco)
+You can find more projects at [PiPad's main site](http://pipadse.wixsite.com/pipadco)
