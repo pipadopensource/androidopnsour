@@ -15,3 +15,8 @@ Nothing to show yet...
 ### More Projects
 
 You can find more projects at [PiPad's main site](http://pipadse.wixsite.com/pipadco)
+
+
+
+This project is hosted by PiPad Experimental.
+(C) PiPad Co Se 2016
